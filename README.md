@@ -7,3 +7,5 @@ I have a family that I love dearly. Despite this, a significant part of my life 
 hajunho/hajunho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hajunho)](https://github.com/ashutosh00710/github-readme-activity-graph)
